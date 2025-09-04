@@ -24,7 +24,7 @@ Example commands you can use:
 - `!info [link like https://starblast.io/1234]` – Show information about starblast.io server like players, ecp players, region etc.
 - **More coming soon!**  
 
-*(You can add more commands depending on your bot’s functionality.)*  
+
 
 ---
 
